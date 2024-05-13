@@ -1,0 +1,29 @@
+HTML INTRODUCTION:
+HTML (hypertext markup language)
+used to create the web pages
+first code:
+<HTML>
+   <HEAD>
+      <TITLE>
+          Title of the page which will not be displayed
+      </TITLE>
+   </HEAD>
+   
+   <BODY>
+      <H1>
+          WELCOME TO HTML !
+      </H1>
+   </BODY>
+<HTML>
+
+TERMS OF HTML:
+The words enclosed in angular brackets are known to be tags i.e., <> 
+eg. <head>,<body>
+tags are again of two types they are
+1.opening tags
+2.closing tags
+opening and closing tags differ in a '/'
+opening tag do not contain / i.e., <head>
+and closing tag be like </head>
+
+
